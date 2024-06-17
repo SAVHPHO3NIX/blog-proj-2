@@ -220,7 +220,7 @@ To edit your profile:
 - **profile_photo_path**: `string`, nullable
 
 
-## Resources used to build this project
+## Resources used to help build this project
 - First attempt at the project which was build with the playlist found here: https://www.youtube.com/watch?v=iniIUcAKuLA&list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU&pp=iAQB
 - Mailtrap set-up: https://youtu.be/gFDTHSQ-Um0?si=OTYK2iuiofRqTK55
 - AI for debugging and examples on how to do certain functions and how to build onto the blade layout provided by Laravel.
