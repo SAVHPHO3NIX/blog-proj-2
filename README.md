@@ -2,7 +2,7 @@
 ## Documentation
 
 ## GitHub Repository link
-- 
+- https://github.com/SAVHPHO3NIX/blog-proj-2
 
 
 ## Setup and Installation
